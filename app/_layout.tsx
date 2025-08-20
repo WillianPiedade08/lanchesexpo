@@ -18,7 +18,7 @@ export default function Layout() {
       headerTitleStyle: styles.texto,
     }}
   >
-    <Stack.Screen name="index" options={{ title: "SobiWhey Lanchonetes" }} />
+    <Stack.Screen name="index" options={{ title: "Mc dawlton infeliz" }} />
     <Stack.Screen name="detalhes" options={{ title: "Detalhes do Lanches" }} />
 
   </Stack>;
